@@ -67,7 +67,7 @@ The code is designed to control the robot's motion and extinguish fire based on 
 1. Download and install the [Arduino IDE](https://www.arduino.cc/en/software).  
 2. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-repo-name/firefighter-robot.git  
+   https://github.com/Mkjerry-jr/Firefighter-Robot.git
    ```  
 3. Open `code.c` in the Arduino IDE.  
 4. Connect your Arduino UNO to your computer via USB.  
