@@ -5,6 +5,9 @@
 
 This repository contains the source code and instructions for building a firefighter robot using Arduino UNO. The robot is capable of detecting and extinguishing fires using IR sensors, a servo-controlled water pump, and an L298N motor driver for movement.
 
+ ![Demo GIF](FireFighterRobot.gif) 
+
+ 
 ## Features  
 - Fire detection using IR sensors.  
 - Automatic fire extinguishing using a servo-controlled water pump.  
